@@ -1,1 +1,1 @@
-print('   ')
+print('empty string')
